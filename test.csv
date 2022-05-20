@@ -1,0 +1,51 @@
+﻿date,url,answers,drying,browning,protein,thickness,preheat,tools,baking_steps
+1/25/2022 9:49,https://www.kochbar.de/rezept/514666/Blumenkohlsalat-mit-Sahnedressing-zu-Schweineschnitzel-Drillingen.html,Is an oven involved in the cooking process? : No,,,null,null,,"""cooktop_hob/pan""",null
+1/25/2022 11:52,https://www.cucchiaio.it/ricetta/corona-di-pane-ripiena/,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Bakery Products (e.g. bread, cake, pizza)
+Is there a top layer (nearly) completely covering the top of the dough while baking? : No covering top layer
+What type of dough/batter is it? : Yeast and Bread doughs
+Does the recipe (the part that is baked in the oven) contain sugar (more than one tablespoon, >5g) : No
+How thick is the dish? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : >6cm",4,2,no,thick,1,"""no_appliance""","temp: 180°C, time: 45 - 45 min, cooking_function: Not specified"
+1/20/2022 11:52,https://www.bbcgoodfood.com/recipes/blueberry-and-lemon-hot-cross-buns,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Bakery Products (e.g. bread, cake, pizza)
+Is there a top layer (nearly) completely covering the top of the dough while baking? : No covering top layer
+What type of dough/batter is it? : Yeast and Bread doughs
+Does the recipe (the part that is baked in the oven) contain sugar (more than one tablespoon, >5g) : Yes
+How thick is the dish? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : 3-6cm",4,3,no,medium,1,"""slow_cooker_or_similar""","temp: 200°C, time: 25 - 30 min, cooking_function: Hot Air"
+1/20/2022 12:17,https://www.bonappetit.com/recipe/embutido,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Meat, Poultry & Fish
+Shall your meat & fish be browned on top? (select no if fried in a pan before it is placed in the oven) : Yes
+How do you want to prepare the food? : Roasting one or few large pieces with a crispy surface (e.g. whole chicken or a roast)
+Do you use a sweet rub or marinade (e.g. honey rub or rub with brown sugar) : Yes
+How thick is your food? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : 4-7cm",5,3,yes,medium,1,"""cooktop_hob/pot""","temp: 155°C, time: 55 - 70 min, cooking_function: Not specified"
+1/25/2022 7:28,https://www.chefkoch.de/rezepte/2904371442778451/Currywurst-gefuellt-und-ueberbacken.html,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Side & Oven Dishes (e.g. Lasagna, Gratins, convenience foods)
+Do you want to prepare one large dish or many smaller items? : One large (including pre-cooked) - grilling
+Does the recipe use one of the following cheese (Mozzarella, Pizza cheese, Gratin cheese) : No
+How thick is the dish? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : <4cm",7,2,no,thin,1,"""cooktop_hob/pan""","temp: 200°C, time: 5 - 10 min, cooking_function: Not specified"
+1/24/2022 10:17,https://receptfavoriter.se/recept/prosciutto-med-melon.html,Is an oven involved in the cooking process? : No,,,null,null,,"""no_appliance""",null
+1/24/2022 13:39,https://www.allrecipes.com/recipe/15306/s,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Meat, Poultry & Fish
+Shall your meat & fish be browned on top? (select no if fried in a pan before it is placed in the oven) : Yes
+How do you want to prepare the food? : Roasting one or few large pieces with a crispy surface (e.g. whole chicken or a roast)
+Do you use a sweet rub or marinade (e.g. honey rub or rub with brown sugar) : No
+How thick is your food? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : 4-7cm",5,2,yes,medium,1,"""cooktop_hob/other-Skillet""","temp: 190°C, time: 120 - 120 min, cooking_function: Not specified
+temp: 190°C, time: 90 - 90 min, cooking_function: Not specified"
+1/20/2022 13:26,https://www.leukerecepten.nl/recepten/pizzarolletjes-met-pesto/,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Bakery Products (e.g. bread, cake, pizza)
+Is there a top layer (nearly) completely covering the top of the dough while baking? : (Nearly) completely covering top layer
+Is it one of the three dishes: Pizza, Quiche(s) or Tarte(s)? : No
+Does the recipe (the part that is baked in the oven) contain sugar (more than one tablespoon, >5g) : No
+How thick is the dish? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : <2cm",7,2,no,thin,1,"""fridge""","temp: 210°C, time: 15 - 20 min, cooking_function: Not specified"
+1/20/2022 11:54,https://www.kochbar.de/rezept/534401/Macadamia-Nougat-Kringel.html,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Bakery Products (e.g. bread, cake, pizza)
+Is there a top layer (nearly) completely covering the top of the dough while baking? : (Nearly) completely covering top layer
+Is it one of the three dishes: Pizza, Quiche(s) or Tarte(s)? : No
+Does the recipe (the part that is baked in the oven) contain sugar (more than one tablespoon, >5g) : Yes
+How thick is the dish? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : 2-3cm",7,3,no,medium,1,"""fridge"", ""slow_cooker_or_similar""","temp: 160°C, time: 0 - 10 min, cooking_function: Hot Air"
+1/20/2022 13:30,https://www.ichkoche.at/rollbraten-mit-maronifuellung-rezept-236884,"Is an oven involved in the cooking process? : Yes
+What is the food type/category of the recipe? : Meat, Poultry & Fish
+Shall your meat & fish be browned on top? (select no if fried in a pan before it is placed in the oven) : Yes
+How do you want to prepare the food? : Roasting one or few large pieces with a crispy surface (e.g. whole chicken or a roast)
+Do you use a sweet rub or marinade (e.g. honey rub or rub with brown sugar) : No
+How thick is your food? Look at the image in the recipe to estimate the thickness. Consider only the part of the dish that is placed in the oven. : 4-7cm",5,2,yes,medium,1,"""cooktop_hob/pan""","temp: 180°C, time: 90 - 90 min, cooking_function: Top Bottom"
